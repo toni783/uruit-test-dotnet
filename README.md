@@ -28,3 +28,7 @@ This project use MySqlServer, if you want to test in your database create in you
 ## Dumps
 
 Database dumps can be found in the folder `Dumps` at the root level of the project
+
+## Authors
+
+- **Gilbert Morett** - _Repo_ - [Github](https://github.com/toni783)
